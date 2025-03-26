@@ -1,8 +1,26 @@
-# React + Vite
+# Interface Notes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é uma aplicação web desenvolvida para registrar e gerenciar notas relacionadas à Interação Humano-Computador (IHC).
 
-Currently, two official plugins are available:
+## Visão Geral
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+O objetivo deste projeto é fornecer uma plataforma onde os usuários possam criar, editar e visualizar notas sobre conceitos e práticas de IHC.
+
+## Tecnologias Utilizadas
+
+- React
+- Vite
+- ESLint
+
+## Funcionalidades
+
+- **Criação de Notas**: Permite aos usuários adicionar novas notas com título e conteúdo.
+- **Edição de Notas**: Funcionalidade para modificar o conteúdo das notas existentes.
+- **Visualização de Notas**: Lista todas as notas salvas para fácil acesso e leitura.
+
+## Como Executar o Projeto
+
+1. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/ecalazans/interface-notes.git
